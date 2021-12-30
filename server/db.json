@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 6,
+      "name": "Rathin",
+      "email": "iamrathinsharma@gmail.com",
+      "phone": "09996208957",
+      "dob": "13/10/1998"
+    },
+    {
+      "name": "abcde",
+      "email": "abc@gamil.com",
+      "phone": "000000000",
+      "dob": "10/10/1994",
+      "id": 7
+    },
+    {
+      "name": "Rathin Sharma",
+      "email": "iamrathinsharma@gmail.com",
+      "phone": "09996208954",
+      "dob": "13/10/1997",
+      "id": 8
+    },
+    {
+      "name": "Rahul",
+      "email": "iamrathinsharma@gmail.com",
+      "phone": "09996208954",
+      "dob": "10/13/1997",
+      "id": 9
+    }
+  ]
+}
